@@ -9,3 +9,5 @@ smash avocado and add lemon and salt
 
 Time
 
+Price of avocado = £2
+
